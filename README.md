@@ -3,6 +3,9 @@ A series of outdoor games powered by QR codes and a website. Games were availabl
 
 ## Repositories
 [Frontend](https://github.com/corioders/terrain-story.frontend)
+
 [API](https://github.com/corioders/terrain-story.api)
+
 [Server](https://github.com/corioders/terrain-story.server)
+
 [Map CMS](https://github.com/corioders/terrain-story.map-cms)
